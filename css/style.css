@@ -1,4 +1,7 @@
-body{
-  background-color:#2FE7E4;
+.hotelbg{
+  background-image: url("http://www.photos-public-domain.com/wp-content/uploads/2012/10/light-blue-fur-texture.jpg");
 
+}
+.intro{
+  font-style: oblique;
 }
