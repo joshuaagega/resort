@@ -4,4 +4,10 @@
 }
 .intro{
   font-style: oblique;
+  font-size: 20px;
+}
+
+.heading{
+  color: #E311B4;
+  font-size: 40px;
 }
