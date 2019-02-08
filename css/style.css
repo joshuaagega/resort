@@ -44,3 +44,10 @@ float:center;
 .mega{
   font-style: italic;
 }
+h1{
+  text-align: center;
+  text-decoration-color: #BB6F40;
+  height: 40px;
+  font-family: 'Roboto Mono', monospace;
+  color:#47230D;
+}
