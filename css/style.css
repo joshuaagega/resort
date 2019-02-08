@@ -5,9 +5,39 @@
 .intro{
   font-style: oblique;
   font-size: 20px;
+  color:#161D23;
 }
 
 .heading{
-  color: #E311B4;
+  color:#0387F9;
   font-size: 40px;
+  border-top: 40px;
+  border-left: 40px;
+  border-right: 40px;
+  text-align: center;
+}
+#line1{
+   color:#0387F;
+   text-align: center;
+
+}
+
+#top{
+  color:#0387F9;
+  background-position: center;
+  text-align: center;
+  background-image: url(https://www.telegraph.co.uk/content/dam/Travel/Destinations/South%20America/Brazil/Rio%20de%20Janeiro/rio-aprazivel-restaurant-guide.jpg?imwidth=450);
+
+}
+ul>li>a{
+  color:#0387F9;
+}
+body{
+  background-image: url(https://northern-lights-assets.s3.amazonaws.com/homepage/2/4i6a9361__small.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.ovo{
+width: 40%;
+float:center;
 }
