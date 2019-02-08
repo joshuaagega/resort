@@ -51,3 +51,21 @@ h1{
   font-family: 'Roboto Mono', monospace;
   color:#47230D;
 }
+.head{
+  font-family: 'Secular One', sans-serif;
+  text-align: center;
+  background-color: #85CFDC;
+}
+.body{
+  background-color:#B4D8DE;
+}
+.nose{
+  font-family: 'Secular One', sans-serif;
+  text-align: center;
+  background-color:#85CFDC;
+}
+.mouth{
+  text-align: center;
+  background-color:#B4D8DE;
+  font-family: 'Secular One', sans-serif;
+}
