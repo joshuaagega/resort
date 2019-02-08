@@ -4,17 +4,18 @@
 }
 .intro{
   font-style: oblique;
-  font-size: 20px;
+  text-align: center;
   color:#161D23;
+  margin: 20%;
+  padding: 40px;
+
 }
 
 .heading{
   color:#0387F9;
-  font-size: 40px;
-  border-top: 40px;
-  border-left: 40px;
-  border-right: 40px;
+  padding: 40px;
   text-align: center;
+  margin: 20%;
 }
 #line1{
    color:#0387F;
